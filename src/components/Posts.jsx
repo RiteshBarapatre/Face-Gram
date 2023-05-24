@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import "../styles/posts.css"
+import "../styles/Posts.css"
 import CardComp from './CardComp'
 import { AppContext } from "../Context";
 
