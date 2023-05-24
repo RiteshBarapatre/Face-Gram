@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 2px solid grey;
+}
+.navbar ul{
+   display: flex; 
+}
+.navbar__li{
+    list-style: none;
+    padding: 0 15px;
+    font-size: 22px;
+}
+.navbar__logo{
+    font-size: 30px;
+    color: #E11299;
+    font-weight: 800;
+}

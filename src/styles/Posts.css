@@ -1,0 +1,7 @@
+.posts{
+    width: 70%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
